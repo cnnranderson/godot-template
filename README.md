@@ -1,5 +1,5 @@
 # Godot Game Project Template
-## --UNDER CONSTRUCTION--
+### --UNDER CONSTRUCTION--
 
 Simple skeleton project for starting Godot games. This template was inspired by the
 scene transition structures found in the "Sealed Bite" project (found [here](https://github.com/securas/SealedBite)).
